@@ -3,6 +3,9 @@ UPDATE 09 Nov 2020 for anyone arriving here looking for a solution to the recent
 bwssystems has now updated .jar file to V5.3.1RC2 to fix this issue - Please download from the official repository. https://github.com/bwssytems/ha-bridge/releases/download/v5.3.1RC2/ha-bridge-5.3.1RC2.jar
 
 
+Using java11? Download compiled jar for java11 here https://github.com/bwssytems/ha-bridge/releases/download/v5.3.1RC2/ha-bridge-5.3.1RC2.java11.jar
+
+
 
 Please disregard the following now that an official release exists:-
 
