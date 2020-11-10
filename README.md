@@ -7,6 +7,10 @@ Using java11? Download compiled jar for java11 here https://github.com/bwssytems
 
 
 
+____________________________________________________________________________________________________________________________________________________________
+
+
+
 Please disregard the following now that an official release exists:-
 
 Test jar file compiled from https://github.com/marcopollacci/ha-bridge fork of bwssystems HA-Bridge which fixes recent Alexa changes affecting official HA-Bridge solution 
